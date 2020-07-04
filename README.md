@@ -55,7 +55,6 @@ main.py --type=annuity --principal=1000000 --periods=60 --interest=10
 Output:
 Your annuity payment = 21248
 Overpayment = 274880
-
 ```
 
 
