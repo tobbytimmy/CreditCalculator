@@ -1,6 +1,8 @@
-#Credit Calculator
+##Credit Calculator
+
 This is a program that calculates the amount of debt you have or the 
 number of months left to pay off the credit
+
 ## Getting Started
 
 Download the project repo ZIP and extract it.
